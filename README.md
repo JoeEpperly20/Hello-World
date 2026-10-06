@@ -17,8 +17,8 @@ Markdown
 ## Files Used
 
 README.md
-My first sample project file
-My second sample project file
+WearEver Project
+Cancer Excel Project
 
 ## Additional Information
 
